@@ -1,1 +1,2 @@
 # Product-Recognition-AI
+An AI solution revolutionizing e-commerce, seamlessly turning social media posts into interactive shopping experiences. The project employs a sophisticated pipeline integrating object detection, text-to-image, image-to-image transformations, and visionary language transformers. This advanced approach eliminates manual tagging, paving the way for efficient and dynamic online shopping experiences.
